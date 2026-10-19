@@ -16,5 +16,6 @@ public class Main {
         System.out.println(rectangle.calculateArea());
         System.out.println(rectangle.calculatePerimeter());
         System.out.println(GeometryUtils.centimetersToMeters(2500));
+        System.out.println(GeometryUtils.metersToCentimeters(25));
     }
 }
