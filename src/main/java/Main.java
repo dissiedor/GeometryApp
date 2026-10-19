@@ -24,6 +24,7 @@ public class Main {
         System.out.println(GeometryUtils.metersToCentimeters(25));
         System.out.println(cube.calculateSurfaceArea());
         System.out.println(cube.calculateVolume());
+        System.out.println(cube.getSpaceDiagonal());
         System.out.println(sphere.calculateSurfaceArea());
         System.out.println(sphere.calculateVolume());
     }
